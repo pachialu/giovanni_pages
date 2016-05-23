@@ -5,28 +5,28 @@ title: Gv01
 
 #### Introduzione
 
-#####1-2
+##### 1-2
  All'inizio c'era la Parola. Era con Dio ed era Dio. Fin dall'inizio era con Dio.
 
-#####3
+##### 3
 Tutto fu fatto tramite lui e senza di lui non è stato fatto nulla.
 
-#####4
+##### 4
 In lui c'è la vita e questa vita dà luce a tutta l'umanità.
 
-#####5
+##### 5
 La sua vita è luce che splende nel buio, ma il buio non l'ha accolta.
 
-#####6-7
+##### 6-7
 Dio mandò un uomo di nome Giovanni <sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup> per testimoniare che Gesù Cristo era la vera luce e per dare a tutti la possibilità di affidarsi a lui.
 
-#####8-9
+##### 8-9
 Giovanni non era la luce: era soltanto un testimone. La vera luce era una persona che doveva ancora arrivare e illuminare ogni essere umano.
 
-#####10-13
+##### 10-13
 Anche se era venuto nel mondo che egli stesso aveva creato, quando arrivò, il mondo non lo riconobbe. Non fu accettato nemmeno nella propria nazione, dalla sua gente. Ma a tutti quelli che lo hanno accolto, cioè a tutti quelli che si affidano a lui, ha dato il diritto di diventare figli di Dio. Non diventano figli di Dio rinascendo fisicamente, per volontà o passione di una persona, ma sono nati da Dio.
 
-#####14
+##### 14
 La Parola diventò uomo e visse qui fra noi, pieno di grazia e verità. E noi abbiamo visto la sua magnificenza, lo splendore dell'unico Figlio del Padre.
 
 #### La presentazione di Giovanni il Battezzatore
