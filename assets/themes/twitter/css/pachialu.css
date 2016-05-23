@@ -1,6 +1,7 @@
 /*  versetti con h5 */
 h5 {
 		display: inline;
+		float: left;
 		font-size: 	small;
 		color: darkgrey;
 }
