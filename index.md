@@ -4,8 +4,14 @@ title: La Bella Notizia secondo Giovanni
 description: v.20170805
 ---
 
-La [bella notizia] di Giovanni è un racconto diverso dagli altri tre, una specie di viaggio nei ricordi dell'allievo che probabilmente era più vicino a Gesù.
-C'era un affetto particolare tra i due, che viene fuori in diversi momenti e diversi modi, e che ha fatto in modo che nel tempo, questo racconto sia stato chiamato "Il Vangelo dell'Amore".
+### La Buona Notizia secondo Giovanni
+
+Tradizionalmente è il quarto e ultimo dei racconti 'ufficiali' della vita di Gesù, scritto dall'allievo Giovanni, figlio di Zebedeo, “l'allievo che Gesù amava” (vedi Gv 21:20-24).
+
+Il racconto di Giovanni è molto diverso dagli altri tre e probabilmente scritto dopo, tanto che sembra dare per scontato la conoscenza almeno del racconto di Marco. Mentre gli altri tre sono focalizzati sulla predicazione del Governo di Dio da parte di Gesù, Giovanni affronta la questione dell'identità di Gesù, inserendo ampie digressioni teologiche.
+
+In particolare Gesù viene identificato con la Parola di Dio, presente fin dall'inizio del mondo. Giovanni inoltre sottolinea ripetutamente anche l'umanità di Gesù, che, per esempio, scoppia in lacrime per la morte di Lazzaro (vedi 11:32-38).
+
 
 * [Giovanni 1](pages/gv01.html)
 * [Giovanni 2](pages/gv02.html)
