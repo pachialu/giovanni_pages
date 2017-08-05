@@ -13,7 +13,7 @@ Il racconto di Giovanni è molto diverso dagli altri tre e probabilmente scritto
 In particolare Gesù viene identificato con la Parola di Dio, presente fin dall'inizio del mondo. Giovanni inoltre sottolinea ripetutamente anche l'umanità di Gesù, che, per esempio, scoppia in lacrime per la morte di Lazzaro (vedi 11:32-38).
 
 
-* [Giovanni 1](pages/gv01.html)
+* [Giovanni 1](pages/Gv01.html)
 * [Giovanni 2](pages/gv02.html)
 * [Giovanni 3](pages/gv03.html)
 * [Giovanni 4](pages/gv04.html)
