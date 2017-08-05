@@ -5,29 +5,21 @@ title: Gv01
 
 #### Introduzione
 
-##### 1-2
- All'inizio c'era la Parola. Era con Dio ed era Dio. Fin dall'inizio era con Dio.
+1-2 All'inizio c'era la Parola. Era con Dio ed era Dio. Fin dall'inizio era con Dio.
 
-##### 3
-Tutto fu fatto tramite lui e senza di lui non è stato fatto nulla.
+3 Tutto fu fatto tramite lui e senza di lui non è stato fatto nulla.
 
-##### 4
-In lui c'è la vita e questa vita dà luce a tutta l'umanità.
+4 In lui c'è la vita e questa vita dà luce a tutta l'umanità.
 
-##### 5
-La sua vita è luce che splende nel buio, ma il buio non l'ha accolta.
+5 La sua vita è luce che splende nel buio, ma il buio non l'ha accolta.
 
-##### 6-7
-Dio mandò un uomo di nome Giovanni <sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup> per testimoniare che Gesù Cristo era la vera luce e per dare a tutti la possibilità di affidarsi a lui.
+6-7 Dio mandò un uomo di nome Giovanni <sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup> per testimoniare che Gesù Cristo era la vera luce e per dare a tutti la possibilità di affidarsi a lui.
 
-##### 8-9
-Giovanni non era la luce: era soltanto un testimone. La vera luce era una persona che doveva ancora arrivare e illuminare ogni essere umano.
+8-9 Giovanni non era la luce: era soltanto un testimone. La vera luce era una persona che doveva ancora arrivare e illuminare ogni essere umano.
 
-##### 10-13
-Anche se era venuto nel mondo che egli stesso aveva creato, quando arrivò, il mondo non lo riconobbe. Non fu accettato nemmeno nella propria nazione, dalla sua gente. Ma a tutti quelli che lo hanno accolto, cioè a tutti quelli che si affidano a lui, ha dato il diritto di diventare figli di Dio. Non diventano figli di Dio rinascendo fisicamente, per volontà o passione di una persona, ma sono nati da Dio.
+10-13 Anche se era venuto nel mondo che egli stesso aveva creato, quando arrivò, il mondo non lo riconobbe. Non fu accettato nemmeno nella propria nazione, dalla sua gente. Ma a tutti quelli che lo hanno accolto, cioè a tutti quelli che si affidano a lui, ha dato il diritto di diventare figli di Dio. Non diventano figli di Dio rinascendo fisicamente, per volontà o passione di una persona, ma sono nati da Dio.
 
-##### 14
-La Parola diventò uomo e visse qui fra noi, pieno di grazia e verità. E noi abbiamo visto la sua magnificenza, lo splendore dell'unico Figlio del Padre.
+14 La Parola diventò uomo e visse qui fra noi, pieno di grazia e verità. E noi abbiamo visto la sua magnificenza, lo splendore dell'unico Figlio del Padre.
 
 #### La presentazione di Giovanni il Battezzatore
 
@@ -59,6 +51,7 @@ La Parola diventò uomo e visse qui fra noi, pieno di grazia e verità. E noi ab
 
 43-50 Il giorno dopo, Gesù decise di andare in <a href="http://www.pachialu.it/doku/doku.php?id=p_galilea" class="wikilink2" title="p_galilea">Galilea</a> e incontrando Filippo, gli disse: “Vieni con me!” Filippo era di <a href="http://www.pachialu.it/doku/doku.php?id=betsaida" class="wikilink2" title="betsaida">Betsaida</a> come Andrea e Pietro. Filippo a sua volta incontrò Natanaele: “Abbiamo trovato il Protagonista!” lo informò esultante, “Proprio quello di cui parlano Mosè e i profeti nella Bibbia!” Si chiama Gesù, figlio di Giuseppe di <a href="http://www.pachialu.it/doku/doku.php?id=nazaret" class="wikilink2" title="nazaret">Nazarèt</a>!” “Nazarèt?!” esclamò Natanaele, “Da lì non viene nulla di buono!” E Filippo: “Vieni a vedere di persona!” Gesù, vedendolo arrivare, disse: “Ecco un Ebreo senza macchia!” “Come fai a conoscermi?” chiese Natanaele. E Gesù: “Ti ho visto sotto l'albero di fico, prima ancora che Filippo ti chiamasse.” Natanaele rispose: “Padrone, tu sei il Figlio di Dio, Re di Israele!” Gesù rispose: “Tu ti lanci così solo perché ho detto che ti ho visto sotto il fico?” Vedrai cose molto più spettacolari. Anzi, sappi che tu vedrai il cielo che si apre e gli angeli di Dio salire e scendere su di me, il Protagonista!“
 
+------------------------------------------------------------------------
 <sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup> il Battezzatore
 
 <sup><a href="#fnt__2" id="fn__2" class="fn_bot">2)</a></sup> battesimo
