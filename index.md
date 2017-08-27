@@ -1,11 +1,8 @@
 ---
 layout: page
-title: La Bella Notizia secondo Giovanni
+title: La Buona Notizia secondo Giovanni
 description: v.20170805
 ---
-
-### La Buona Notizia secondo Giovanni
-
 Tradizionalmente è il quarto e ultimo dei racconti 'ufficiali' della vita di Gesù, scritto dall'allievo Giovanni, figlio di Zebedeo, “l'allievo che Gesù amava” (vedi Gv 21:20-24).
 
 Il racconto di Giovanni è molto diverso dagli altri tre e probabilmente scritto dopo, tanto che sembra dare per scontato la conoscenza almeno del racconto di Marco. Mentre gli altri tre sono focalizzati sulla predicazione del Governo di Dio da parte di Gesù, Giovanni affronta la questione dell'identità di Gesù, inserendo ampie digressioni teologiche.
