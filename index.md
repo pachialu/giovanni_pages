@@ -3,6 +3,9 @@ layout: page
 title: La Buona Notizia secondo Giovanni
 description: v.20170805
 ---
+
+#### Introduzione
+
 Tradizionalmente è il quarto e ultimo dei racconti 'ufficiali' della vita di Gesù, scritto dall'allievo Giovanni, figlio di Zebedeo, “l'allievo che Gesù amava” (vedi Gv 21:20-24).
 
 Il racconto di Giovanni è molto diverso dagli altri tre e probabilmente scritto dopo, tanto che sembra dare per scontato la conoscenza almeno del racconto di Marco. Mentre gli altri tre sono focalizzati sulla predicazione del Governo di Dio da parte di Gesù, Giovanni affronta la questione dell'identità di Gesù, inserendo ampie digressioni teologiche.
@@ -10,7 +13,7 @@ Il racconto di Giovanni è molto diverso dagli altri tre e probabilmente scritto
 In particolare Gesù viene identificato con la Parola di Dio, presente fin dall'inizio del mondo. Giovanni inoltre sottolinea ripetutamente anche l'umanità di Gesù, che, per esempio, scoppia in lacrime per la morte di Lazzaro (vedi 11:32-38).
 
 
-* [Giovanni 1](pages/Gv01.html)
+* [Giovanni 1](pages/gv01.html)
 * [Giovanni 2](pages/gv02.html)
 * [Giovanni 3](pages/gv03.html)
 * [Giovanni 4](pages/gv04.html)
