@@ -1,32 +1,27 @@
 ---
 layout: page
 title: La Buona Notizia secondo Giovanni
-description: v.20180329
+description: v.20210602
 ---
 
 #### Introduzione
+La Buona Notizia secondo Giovanni è, nella tradizione dei cristiani, il quarto e ultimo dei racconti 'ufficiali' della vita di Gesù, 
+scritto dall'allievo Giovanni (figlio di Zebedeo). Di se stesso scrive: "l'allievo che Gesù amava" (vedi Gv 21:20-24). 
+Infatti tra i due c'era un affetto particolare che emerge in momenti e modi diversi. 
+Il tema ricorrente dell'affetto e dell'amore ha fatto acquistare a questo racconto, nel tempo, il titolo di "Buona Notizia dell'Amore".
 
-La Buona Notizia secondo Giovanni è per tradizione il quarto e ultimo
-dei racconti 'ufficiali' della vita di Gesù, scritto dall'allievo
-Giovanni, figlio di Zebedeo, “l'allievo che Gesù amava” (vedi Gv
-21:20-24). C'era un affetto particolare tra i due, che viene fuori in
-diversi momenti e diversi modi, e che ha fatto in modo che nel tempo,
-questo racconto sia stato chiamato “Il Vangelo dell'Amore”.
+Il testo di Giovanni è molto diverso dagli altri tre e probabilmente scritto dopo, 
+tanto che sembra dare per scontato la conoscenza almeno del racconto di Marco.  
+Mentre gli altri tre sono focalizzati sulla predicazione del Governo di Dio da parte di Gesù, 
+Giovanni affronta la questione dell'identità di Gesù e del rapporto tra Dio Padre, Dio Figlio e Dio Spirito, 
+riportando lunghi discorsi di Gesù su questi temi.
 
-Il racconto di Giovanni è molto diverso dagli altri tre e probabilmente
-scritto dopo, tanto che sembra dare per scontato la conoscenza almeno
-del racconto di Marco. Mentre gli altri tre sono focalizzati sulla
-predicazione del Governo di Dio da parte di Gesù, Giovanni affronta la
-questione dell'identità di Gesù e del rapporto tra Dio Padre, Dio Figlio
-e Dio Spirito, riportando lunghi discorsi di Gesù su questi temi.
+In particolare, Gesù viene identificato con la Parola di Dio, presente già dall'inizio del Mondo. 
+Giovanni inoltre sottolinea ripetutamente anche l'umanità di Gesù, che, per esempio, 
+scoppia in lacrime per la morte di Lazzaro (vedi 11:32-38).
 
-In particolare Gesù viene identificato con la Parola di Dio, presente
-fin dall'inizio del mondo. Giovanni inoltre sottolinea ripetutamente
-anche l'umanità di Gesù, che, per esempio, scoppia in lacrime per la
-morte di Lazzaro (vedi 11:32-38).
-
-Per tradizione, è diviso in 21 capitoli. Al capitolo dodici inizia il
-racconto degli ultimi giorni di Gesù a Gerusalemme.
+Tradizionalmente è stato diviso in 21 capitoli. 
+Al capitolo dodici comincia il racconto degli ultimi giorni di Gesù a Gerusalemme.
 
 #### Capitoli
 
